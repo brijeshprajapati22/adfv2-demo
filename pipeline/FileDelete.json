@@ -103,9 +103,6 @@
 			"SourceStore_Location": {
 				"type": "string",
 				"defaultValue": "deleteddata"
-			},
-			"SourceStore_Directory": {
-				"type": "string"
 			}
 		},
 		"annotations": [],
